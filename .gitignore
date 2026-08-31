@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# Compiled classes
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Local notes (not for the repository)
+docs/
